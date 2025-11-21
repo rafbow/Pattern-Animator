@@ -65,6 +65,3 @@ Program Pattern Animator menampilkan animasi pola bergerak secara interaktif di 
 
 Proyek ini dibuat untuk **tugas ujian mid semester** dan bebas dimodifikasi sesuai kebutuhan pembelajaran.
 
----
-
-Kalau mau dibuat lebih formal, lebih panjang, atau versi bahasa Inggris, tinggal bilang aja wkwk.
